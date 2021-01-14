@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is frontend.
+Backend is present on facerecognitionapi.
+
 ## Available Scripts
 
 In the project directory, you can run:
